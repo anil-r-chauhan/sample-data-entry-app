@@ -10,11 +10,11 @@ To start the application, follow these steps:
 
 1. **Clone the Repository**  
    Clone this repository to your local machine using the following command:  
-   git clone <repository-url>
+   git clone https://github.com/anil-r-chauhan/sample-data-entry-app.git
 
 2. **Navigate to the Project Directory**  
    Change into the project directory:  
-   cd <project-directory>
+   cd sample-data-entry-app
 
 3. **Install Dependencies**  
    Install all the required dependencies:  
